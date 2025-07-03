@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+duckduckgo-search
+PyPDF2
+bs4
+langchain-community
+tiktoken
+sentence-transformers
+faiss-cpu
+certifi
